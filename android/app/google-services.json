@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367973413886",
+    "project_id": "simple-c0e89",
+    "storage_bucket": "simple-c0e89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367973413886:android:ea652b13f5672e71cd06af",
+        "android_client_info": {
+          "package_name": "Texmate.complete_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtM-n3MhukQu-s6gz7Bp77Y2XKNZv4sU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
